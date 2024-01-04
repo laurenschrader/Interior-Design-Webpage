@@ -2,3 +2,9 @@ img {
   float: center;
   width: 25%;
 }
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightcoral;
+}
